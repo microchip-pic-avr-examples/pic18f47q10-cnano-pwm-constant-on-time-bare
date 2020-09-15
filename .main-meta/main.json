@@ -5,7 +5,7 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.pic18f47q10-cnano-pwm-constant-on-time-bare",
         "version": "1.0.4",
-        "displayName": "Using TMR0 in 8-bit Mode and to Generate an Output Signal",
+        "displayName": "PWM Signal Generation with Constant on-time",
         "projectName": "pic18f47q10-cnano-pwm-constant-on-time-bare",
         "shortDescription": "This example describes how to configure the CCP2 peripheral in conjunction with TMR4 to produce a PWM signal with variable frequency and constant on-time.",
         "ide": {
